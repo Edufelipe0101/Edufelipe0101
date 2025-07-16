@@ -2,11 +2,11 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá! Me chamo Eduardo Felipe, tenho 19 anos, sou estudante de programação e com formação técnica em Redes de Computadores. Natural do Cabo de Santo Agostinho – PE, sou um verdadeiro entusiasta da tecnologia e tudo o que ela pode proporcionar para o desenvolvimento pessoal, profissional e social.
+Olá! Me chamo Eduardo Felipe, tenho 19 anos, sou estudante de programação e possuo formação técnica em Redes de Computadores. Natural do Cabo de Santo Agostinho – PE, sou um verdadeiro entusiasta da tecnologia e tudo o que ela pode proporcionar para o desenvolvimento pessoal, profissional e social.
 
 🌐 Vamos nos conectar?
-Fique à vontade para explorar meus repositórios e trocar ideias!  
-📎 LinkedIn – www.linkedin.com/in/eduardo-felipe-tech  
+Fique à vontade para explorar meus repositórios e trocar ideias!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-felipe-tech)
 💬 Aberto a colaborações, ideias e projetos!
 
 Estou sempre em busca de novos desafios, projetos e oportunidades de crescimento. Seja no desenvolvimento de sistemas, na área de redes ou em iniciativas sociais com tecnologia, estou comprometido em fazer a diferença.
