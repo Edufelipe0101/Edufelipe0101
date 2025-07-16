@@ -7,7 +7,7 @@ Olá! Me chamo Eduardo Felipe, tenho 19 anos, sou estudante de programação e p
 🌐 Vamos nos conectar?
 Fique à vontade para explorar meus repositórios e trocar ideias!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-felipe-tech)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-felipe-tech/)
 
 💬 Aberto a colaborações, ideias e projetos!
 
