@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Felipe
+# Olá, me chamo Eduardo Felipe
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
