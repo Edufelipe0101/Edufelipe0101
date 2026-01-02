@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá! Me chamo Eduardo Felipe, tenho 19 anos, sou estudante de programação e possuo formação técnica em Redes de Computadores. Sou um verdadeiro entusiasta da tecnologia e tudo o que ela pode proporcionar para o desenvolvimento pessoal, profissional e social.
+Olá! Me chamo Eduardo Felipe, tenho 20 anos, sou estudante de programação e possuo formação técnica em Redes de Computadores. Sou um verdadeiro entusiasta da tecnologia e tudo o que ela pode proporcionar para o desenvolvimento pessoal, profissional e social.
 
 🌐 Vamos nos conectar?
 Fique à vontade para explorar meus repositórios e trocar ideias!
